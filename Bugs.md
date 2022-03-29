@@ -4,3 +4,5 @@
 
 ## Fixing the bugs
 - For the libraries: go in each folder and drag the jars in the folder above them 
+
+## To submit bugs open a issue with how the bug can be recreated
